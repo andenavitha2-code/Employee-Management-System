@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node node_modules/typescript/bin/tsc -b && node node_modules/vite/bin/vite.js",
+    "build": "node node_modules/typescript/bin/tsc -b && node node_modules/vite/bin/vite.js build",
+
     "lint": "oxlint",
     "preview": "vite preview",
     "server": "json-server --watch db.json --port 5000",
