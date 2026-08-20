@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "fullName": "Ananya Sharma",
+      "email": "ananya.sharma@company.com",
+      "phone": "9876543210",
+      "department": "Engineering",
+      "role": "Frontend Developer",
+      "joiningDate": "2022-03-15",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "fullName": "Rahul Verma",
+      "email": "rahul.verma@company.com",
+      "phone": "9876543211",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "joiningDate": "2021-07-01",
+      "status": "Active"
+    },
+    {
+      "id": "3",
+      "fullName": "Priya Nair",
+      "email": "priya.nair@company.com",
+      "phone": "9876543212",
+      "department": "Human Resources",
+      "role": "HR Manager",
+      "joiningDate": "2020-01-10",
+      "status": "Active"
+    },
+    {
+      "id": "4",
+      "fullName": "Karthik Reddy",
+      "email": "karthik.reddy@company.com",
+      "phone": "9876543213",
+      "department": "Sales",
+      "role": "Sales Executive",
+      "joiningDate": "2023-05-22",
+      "status": "Inactive"
+    },
+    {
+      "id": "5",
+      "fullName": "Sneha Iyer",
+      "email": "sneha.iyer@company.com",
+      "phone": "9876543214",
+      "department": "Marketing",
+      "role": "Marketing Specialist",
+      "joiningDate": "2022-11-30",
+      "status": "Active"
+    },
+    {
+      "id": "6",
+      "fullName": "Vikram Singh",
+      "email": "vikram.singh@company.com",
+      "phone": "9876543215",
+      "department": "Finance",
+      "role": "Financial Analyst",
+      "joiningDate": "2019-09-18",
+      "status": "Inactive"
+    }
+  ]
+}
